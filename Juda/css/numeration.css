@@ -1,0 +1,203 @@
+.numerator{
+    position: relative;
+    width: 2em;
+    height: 2em;
+    margin-left: 69%;
+    margin-top: -109%;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    font-size: 30px;
+    border-radius:50%;
+    border: red 5px solid;
+}
+.numeration{
+    color: black;
+    margin-top: 15%;
+    text-align: center;
+    font-size: 1em;
+    font-family: 'Didact Gothic', sans-serif;
+}
+.numerator2{
+    position:relative;
+    width: 2em;
+    height: 2em;
+    margin-left: 67%;
+    margin-top: -1%;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    font-size: 30px;
+    border-radius:50%;
+    border: red 5px solid;
+}
+.numeration2{
+    color: black;
+    margin-top: 15%;
+    text-align: center;
+    font-size: 1em;
+    font-family: 'Didact Gothic', sans-serif;
+}
+.numerator3{
+    position:relative;
+    width: 2em;
+    height: 2em;
+    margin-left: 7%;
+    margin-top: -10%;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    font-size: 30px;
+    border-radius:50%;
+    border: red 5px solid;
+}
+.numeration3{
+    color: black;
+    margin-top: 15%;
+    text-align: center;
+    font-size: 1em;
+    font-family: 'Didact Gothic', sans-serif;
+}
+.numerator4{
+    position:relative;
+    width: 2em;
+    height: 2em;
+    margin-left: 80%;
+    margin-top: 25%;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    font-size: 30px;
+    border-radius:50%;
+    border: red 5px solid;
+}
+.numeration4{
+    color: black;
+    margin-top: 15%;
+    text-align: center;
+    font-size: 1em;
+    font-family: 'Didact Gothic', sans-serif;
+}
+.numerator5{
+    position:relative;
+    width: 2em;
+    height: 2em;
+    margin-left: 75%;
+    margin-top: 11%;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    font-size: 30px;
+    border-radius:50%;
+    border: red 5px solid;
+}
+.numeration5{
+    color: black;
+    margin-top: 15%;
+    text-align: center;
+    font-size: 1em;
+    font-family: 'Didact Gothic', sans-serif;
+}
+.numerator6{
+    position:relative;
+    width: 2em;
+    height: 2em;
+    margin-left: 10%;
+    margin-top: -9%;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    font-size: 30px;
+    border-radius:50%;
+    border: red 5px solid;
+}
+.numeration6{
+    color: black;
+    margin-top: 15%;
+    text-align: center;
+    font-size: 1em;
+    font-family: 'Didact Gothic', sans-serif;
+}
+.numerator7{
+    position:relative;
+    width: 2em;
+    height: 2em;
+    margin-left: 5.5%;
+    margin-top: -33%;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    font-size: 30px;
+    border-radius:50%;
+    border: red 5px solid;
+}
+.numeration7{
+    color: black;
+    margin-top: 15%;
+    text-align: center;
+    font-size: 1em;
+    font-family: 'Didact Gothic', sans-serif;
+}
+@media screen and (max-width:1200px){
+ 
+   
+    }
+@media screen and (max-width:600px){
+    .numerator{
+        width: 1.5em;
+        height: 1.5em;
+        border: red 2px solid;
+    }
+    .numeration{
+        margin-top: 9%;
+        font-size: 0.8em;
+    }
+    .numerator2{
+        width: 1.5em;
+        height: 1.5em;
+        border: red 2px solid;
+    }
+    .numeration2{
+        margin-top: 9%;
+        font-size: 0.8em;
+    }
+    .numerator3{
+        width: 1.5em;
+        height: 1.5em;
+        border: red 2px solid;
+    }
+    .numeration3{
+        margin-top: 9%;
+        font-size: 0.8em;
+    }
+    .numerator4{
+        width: 1.5em;
+        height: 1.5em;
+        border: red 2px solid;
+    }
+    .numeration4{
+        margin-top: 9%;
+        font-size: 0.8em;
+    }
+    .numerator5{
+        width: 1.5em;
+        height: 1.5em;
+        border: red 2px solid;
+    }
+    .numeration5{
+        margin-top: 9%;
+        font-size: 0.8em;
+    }
+    .numerator6{
+        width: 1.5em;
+        height: 1.5em;
+        border: red 2px solid;
+    }
+    .numeration6{
+        margin-top: 9%;
+        font-size: 0.8em;
+    }
+    .numerator7{
+        width: 1.5em;
+        height: 1.5em;
+        border: red 2px solid;
+    }
+    .numeration7{
+        margin-top: 9%;
+        font-size: 0.8em;
+    }
+
+}

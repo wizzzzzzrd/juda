@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    background-color: #cdaaba;
+}
+.wrap-textImg{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.cont-text{
+    width: 100%;
+    height: auto;
+    background-color: #f8f5e6;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow: wrap;
+}
+.box-text{
+    width: 45%;
+    height: auto;
+    background-color: #f8f5e6;
+    margin: 20px;
+    box-sizing: border-box;
+    font-size: 50px;
+}
+.cont-img{
+    width: 100%;
+    height: auto;
+    background-color: #f9f8f0;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow: wrap;
+}
+.box{
+    width: 80%;
+    max-width: 100%;
+
+    height: auto;
+    background-color: #f8f5e6;
+    margin: 20px;
+    box-sizing: border-box;
+    font-size: 50px;
+}
+.box img{
+    width: 100%;
+}
+
+.prev{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.prev a{
+    background-color: blue;
+    padding: 14px 28px;
+    display: inline-block;
+    color: #b1efaa;
+    border-radius: 5%;
+    -webkit-border-radius: 5%;
+    -moz-border-radius: 5%;
+    -ms-border-radius: 5%;
+    -o-border-radius: 5%;
+    font-family: 'Didact Gothic', sans-serif;
+}
+.prev a:hover{
+    background-color: rgb(153, 184, 210);
+    color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+.title{
+    text-align: center;
+    color: #000000;
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 1.5em;
+}
+.subtitle{
+    text-align: center;
+    color: #000000;
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 40px;
+}
+.info{
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: #000000;
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 20px;
+}
+
+@media screen and (max-width:1200px) {
+    .box{
+        width: 40%;
+    }
+    .box-text{
+        width: 40%;
+    }
+}
+@media screen and (max-width:600px) {
+    .box{
+        width: 90%;
+    }
+    .box-text{
+        width: 90%;
+    }  
+    
+    }
